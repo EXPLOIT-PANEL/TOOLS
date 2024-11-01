@@ -1,1 +1,8 @@
 
+pkg install bash 
+pkg install git
+pkg install mpv
+git clone https://github.com/EXPLOIT-PANEL/TOOLS.git
+cd TOOLS
+unzip enc.zip
+bash Belajar.sh
