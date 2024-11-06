@@ -1,7 +1,10 @@
 
 pkg install bash 
 pkg install git
-pkg install mpv
+pkg install sox mpv
+pkg install cowsay ruby
+pkg install game-repo -y
+pkg install whoami
 git clone https://github.com/EXPLOIT-PANEL/TOOLS.git
 cd TOOLS
 unzip enc.zip
