@@ -77,6 +77,8 @@ clear
 cd seeker
 mv -f SARA $HOME/TOOLS
 clear
+cd PhoneSploit-Pro
+mv -f SARA $HOME/TOOLS
 autoketik "KALO ADA YANG EROR DI TOOLS MENU BERARTI SCRIPT NYA BELUM TER INSTALL" "${red}"
 sleep 4
 
