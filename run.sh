@@ -72,13 +72,7 @@ git clone https://github.com/thewhiteh4t/seeker.git && cd seeker/ && bash instal
 clear
 git clone https://github.com/AzeemIdrisi/PhoneSploit-Pro.git && cd PhoneSploit-Pro/ && pip install -r requirements.txt
 clear
-git clone --depth=1 https://github.com/termuxhackers-id/SARA && cd SARA && bash install.sh 
-clear
-cd seeker
-mv -f SARA $HOME/TOOLS
-clear
-cd PhoneSploit-Pro
-mv -f SARA $HOME/TOOLS
+
 autoketik "KALO ADA YANG EROR DI TOOLS MENU BERARTI SCRIPT NYA BELUM TER INSTALL" "${red}"
 sleep 4
 
