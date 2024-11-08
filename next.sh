@@ -264,7 +264,7 @@ mpv --volume=150 https://h.top4top.io/m_3225x59oo1.mp3>clear
 echo -e "${banner}"
 clear
 sleep 1
-python3 DDOS.py
+python3 ddos.py
 clear
 bash next.sh
 elif [ $pilih = "3" ]
