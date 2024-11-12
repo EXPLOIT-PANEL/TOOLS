@@ -1,4 +1,5 @@
-
+pkg update && pkg upgrade -y
+pkg install jq
 pkg install bash 
 pkg install git
 pkg install sox mpv
