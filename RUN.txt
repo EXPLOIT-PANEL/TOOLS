@@ -5,7 +5,6 @@ pkg install git
 pkg install sox mpv
 pkg install cowsay ruby
 pkg install game-repo -y
-pkg install whoami
-git clone https://github.com/EXPLOIT-PANEL/.TOOLS.git
+git clone https://github.com/hackingmenu/TOOLS.git
 cd TOOLS
 bash Belajar.sh
